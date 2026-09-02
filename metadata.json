@@ -1,0 +1,7 @@
+{
+  "name": "Rhythm Play",
+  "description": "2016 Google Play Music inspired Material 3 music player with offline and offscreen playback, synchronized lyrics, custom equalizer presets, custom album art, and YouTube Music streams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
